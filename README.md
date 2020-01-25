@@ -1,1 +1,1 @@
-[**Arceon WIKI**](https://github.com/Brennian/Arceon/wiki)
+[**Arceon Wiki**](https://github.com/Brennian/Arceon/wiki)
